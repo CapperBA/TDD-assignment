@@ -1,0 +1,21 @@
+Requirement Specification
+
+Author: 
+Casper A. and Anders A.
+
+Title: 
+Grade Converter
+
+Usage: 
+Grade Converter is an app that takes a danish grade (7-step scale) as input
+and converts it to the european standard (ECTS)
+
+Specifications:
+Danish grades are equal to the following in the european standards:
+12 = A
+10 = B
+ 7 = C
+ 4 = D
+02 = E
+00 = Fx
+-3 = F
